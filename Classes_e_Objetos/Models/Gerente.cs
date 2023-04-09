@@ -1,4 +1,4 @@
-namespace Gerente{
+namespace ProgramaGerente{
     class Gerente{
         public string Nome { get; set; }
         public string CPF { get; set; }
