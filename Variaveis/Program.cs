@@ -21,7 +21,7 @@ namespace Program{
             bool teste = true;
             bool teste2 = false;
             //Variável do tipo nulo
-            var teste3 = null;
+            //var teste3 = null;
         }
     }
 }

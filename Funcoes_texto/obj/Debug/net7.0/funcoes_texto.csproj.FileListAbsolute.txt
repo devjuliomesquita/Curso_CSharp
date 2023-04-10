@@ -1,0 +1,15 @@
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\funcoes_texto.csproj.AssemblyReference.cache
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\funcoes_texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\funcoes_texto.AssemblyInfoInputs.cache
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\funcoes_texto.AssemblyInfo.cs
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\funcoes_texto.csproj.CoreCompileInputs.cache
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\bin\Debug\net7.0\funcoes_texto.exe
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\bin\Debug\net7.0\funcoes_texto.deps.json
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\bin\Debug\net7.0\funcoes_texto.runtimeconfig.json
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\bin\Debug\net7.0\funcoes_texto.dll
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\bin\Debug\net7.0\funcoes_texto.pdb
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\funcoes_texto.dll
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\refint\funcoes_texto.dll
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\funcoes_texto.pdb
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\funcoes_texto.genruntimeconfig.cache
+C:\Users\julio.martins\Documents\GitHub\Curso_CSharp\funcoes_texto\obj\Debug\net7.0\ref\funcoes_texto.dll
